@@ -16,11 +16,11 @@
 
 ### Add event by clicking the date
 
-![Create.](https://media.discordapp.net/attachments/1135409889745850380/1280173401347981433/addEvent.gif?ex=66d71de3&is=66d5cc63&hm=40402ca9e85b0ac4151b977ada91652e4e6b362ccf55caf0c8872dd29db901b0&=&width=1500&height=801)
+![Create.](https://cdn.discordapp.com/attachments/1135409889745850380/1280180740251717734/addEvent.gif?ex=66d724b9&is=66d5d339&hm=2c2a8466e28adb52814cb26882142b08632dcec4204489109ea27b42695ded28&)
 
 ### Update & preview event
 
-![Update.](https://media.discordapp.net/attachments/1135409889745850380/1280173401750769674/editEvent.gif?ex=66d71de3&is=66d5cc63&hm=4272ddd191f0dcae989c7ca77003ab69d4d89f213976231a31180b6ed6032753&=&width=1500&height=801)
+![Update.](https://cdn.discordapp.com/attachments/1135409889745850380/1280181398275100775/editEvent.gif?ex=66d72555&is=66d5d3d5&hm=f56865060a1f3f214d9c8dafd4d37e9c9a0aa4a699a68fb54504644a249fbdcb&)
 
 ### Delete event
 
